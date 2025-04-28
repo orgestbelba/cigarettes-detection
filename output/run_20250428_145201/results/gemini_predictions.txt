@@ -1,0 +1,45 @@
+         Image                                               Prediction
+ cropped_1.png                            Brand: Unknown, Type: Unknown
+ cropped_2.png                            Brand: Unknown, Type: Unknown
+ cropped_3.png                              Brand: Vogue, Type: Unknown
+cropped_30.png                          Brand: DS, Type: Durres Special
+cropped_31.png                               Brand: Kent, Type: Crystal
+cropped_38.png                            Brand: L&M, Type: Forward Cut
+cropped_39.png                            Brand: L&M, Type: Forward Cut
+cropped_40.png                               Brand: Kent, Type: Crystal
+cropped_42.png                              Brand: Kent, Type: White HD
+cropped_43.png                              Brand: Kent, Type: White HD
+cropped_63.png                                  Brand: King, Type: Blue
+cropped_64.png                 Brand: Winston, Type: XStyle Long Silver
+cropped_65.png                            Brand: Unknown, Type: Unknown
+cropped_66.png                               Brand: Karelia, Type: Blue
+cropped_67.png                        Brand: Winston, Type: XStyle Blue
+cropped_68.png                               Brand: Camel, Type: Yellow
+cropped_69.png                            Brand: Unknown, Type: Unknown
+cropped_70.png                      Brand: Winston, Type: XStyle Silver
+cropped_71.png                       Brand: Rothmans, Type: Silver Blue
+cropped_72.png                                 Brand: Camel, Type: Blue
+cropped_73.png               Brand: Lucky Strike, Type: Original Silver
+cropped_74.png                   Brand: Lucky Strike, Type: Addies Blue
+cropped_75.png                   Brand: Lucky Strike, Type: Addies Gold
+cropped_76.png                       Brand: Winston, Type: Classic Blue
+cropped_77.png                                  Brand: Eva, Type: Slims
+cropped_78.png                            Brand: Karelia, Type: Special
+cropped_79.png                         Brand: Karelia, Type: Blue 100's
+cropped_80.png                           Brand: Rothmans, Type: Leggera
+cropped_81.png Brand: George Karelias and Sons, Type: Superior Virginia
+cropped_83.png                             Brand: Trokadero, Type: Blue
+cropped_84.png                             Brand: Marlboro, Type: Touch
+cropped_85.png                              Brand: Karelia, Type: Slims
+cropped_86.png                               Brand: Merit, Type: Orange
+cropped_88.png                            Brand: Dunhill, Type: Unknown
+cropped_89.png                        Brand: Marlboro, Type: Fine Touch
+cropped_90.png                     Brand: Marlboro, Type: Premium Black
+cropped_91.png                            Brand: Dunhill, Type: Unknown
+cropped_92.png                               Brand: Marlboro, Type: Red
+cropped_93.png                            Brand: Dunhill, Type: Unknown
+cropped_94.png                Brand: Philip Morris, Type: Original Blue
+cropped_95.png                     Brand: Philip Morris, Type: Infinito
+cropped_96.png                      Brand: Philip Morris, Type: Supreme
+cropped_97.png                             Brand: Marlboro, Type: Touch
+cropped_98.png                       Brand: Marlboro, Type: Flavor Plus
